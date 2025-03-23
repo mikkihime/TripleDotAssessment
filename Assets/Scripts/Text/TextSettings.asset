@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 483b845d80999f9459d3a95964cf0abb, type: 3}
+  m_Name: TextSettings
+  m_EditorClassIdentifier: 
+  <TextStyleSettings>k__BackingField:
+  - <StyleName>k__BackingField: 0
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: d2da44abc8115434384483584cc3eea6, type: 2}
+    <Autosize>k__BackingField: 1
+    <FontMinSize>k__BackingField: 20
+    <FontMaxSize>k__BackingField: 85
+    <FontSize>k__BackingField: 0
+  - <StyleName>k__BackingField: 1
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: d2da44abc8115434384483584cc3eea6, type: 2}
+    <Autosize>k__BackingField: 1
+    <FontMinSize>k__BackingField: 18
+    <FontMaxSize>k__BackingField: 40
+    <FontSize>k__BackingField: 0
+  - <StyleName>k__BackingField: 2
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: fa4225af3a0b88f4fb22d020e396b9c8, type: 2}
+    <Autosize>k__BackingField: 1
+    <FontMinSize>k__BackingField: 18
+    <FontMaxSize>k__BackingField: 36
+    <FontSize>k__BackingField: 0
+  - <StyleName>k__BackingField: 3
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: fa4225af3a0b88f4fb22d020e396b9c8, type: 2}
+    <Autosize>k__BackingField: 1
+    <FontMinSize>k__BackingField: 12
+    <FontMaxSize>k__BackingField: 25
+    <FontSize>k__BackingField: 0
+  - <StyleName>k__BackingField: 4
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: d2da44abc8115434384483584cc3eea6, type: 2}
+    <Autosize>k__BackingField: 1
+    <FontMinSize>k__BackingField: 18
+    <FontMaxSize>k__BackingField: 45
+    <FontSize>k__BackingField: 0
+  - <StyleName>k__BackingField: 5
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: d2da44abc8115434384483584cc3eea6, type: 2}
+    <Autosize>k__BackingField: 1
+    <FontMinSize>k__BackingField: 40
+    <FontMaxSize>k__BackingField: 80
+    <FontSize>k__BackingField: 0
+  - <StyleName>k__BackingField: 6
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: d2da44abc8115434384483584cc3eea6, type: 2}
+    <Autosize>k__BackingField: 0
+    <FontMinSize>k__BackingField: 40
+    <FontMaxSize>k__BackingField: 125
+    <FontSize>k__BackingField: 125
+  - <StyleName>k__BackingField: 7
+    <FontAsset>k__BackingField: {fileID: 11400000, guid: d2da44abc8115434384483584cc3eea6, type: 2}
+    <Autosize>k__BackingField: 1
+    <FontMinSize>k__BackingField: 40
+    <FontMaxSize>k__BackingField: 95
+    <FontSize>k__BackingField: 0
